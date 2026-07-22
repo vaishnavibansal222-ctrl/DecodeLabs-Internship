@@ -1,5 +1,5 @@
 # 🤖 Rule-Based AI Chatbot
-A beginner-friendly Artificial Intelligence chatbot built with Python using rule-based logic and conditional statements.
+⭐A beginner-friendly Artificial Intelligence chatbot built with Python using rule-based logic and conditional statements.
 Developed as part of the DecodeLabs Artificial Intelligence Internship.
 
 ## 📖 Table of Contents
