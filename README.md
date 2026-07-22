@@ -8,6 +8,7 @@ Developed as part of the DecodeLabs Artificial Intelligence Internship.
 * Technologies Used
 * Project Structure
 * Installation
+* Screenshot
 * Sample Output
 * Learning Outcomes
 * Future Improvements
@@ -79,6 +80,14 @@ cd Decodelabs-Internship
 python "PROJECT-1 VAISHNAVI.py"
 ```
 
+## 📚 Screenshot 
+# Functionality 
+<img width="371" height="277" alt="functionality" src="https://github.com/user-attachments/assets/5743073b-f4e4-4770-af86-14ff5e4ebc77" />
+
+# Interface 
+<img width="326" height="67" alt="interface" src="https://github.com/user-attachments/assets/b51d5a90-fba2-4dae-9075-f07d9b5228f4" />
+
+  
 💬 Sample Conversation
 ==================================================
            RULE-BASED AI CHATBOT
