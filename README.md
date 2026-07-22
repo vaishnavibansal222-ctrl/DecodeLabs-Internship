@@ -2,34 +2,34 @@
 A beginner-friendly Artificial Intelligence chatbot built with Python using rule-based logic and conditional statements.
 Developed as part of the DecodeLabs Artificial Intelligence Internship.
 
-📖 Table of Contents
-Project Overview
-Features
-Technologies Used
-Project Structure
-Installation
-Sample Output
-Learning Outcomes
-Future Improvements
-License
-Author
+## 📖 Table of Contents
+* Project Overview
+* Features
+* Technologies Used
+* Project Structure
+* Installation
+* Sample Output
+* Learning Outcomes
+* Future Improvements
+* License
+* Author
 
-🌟 Project Overview
+## 🌟 Project Overview
 
 The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It responds to user inputs through predefined rules and conditional statements, demonstrating the core concepts of Rule-Based Artificial Intelligence without relying on Machine Learning or external AI libraries.
-✨ Key Features
-🤝 Interactive chatbot conversation
-👋 Personalized greetings
-🤖 Answers AI-related questions
-🐍 Provides Python programming information
-📅 Displays current date
-🕒 Displays current time
-➕ Performs arithmetic calculations
-💡 Generates motivational quotes
-🎲 Shares random fun facts
-❓ Handles unknown inputs politely
-🔁 Continuous conversation using a while loop
-🚪 Graceful exit command
+* ✨ Key Features
+* 🤝 Interactive chatbot conversation
+* 👋 Personalized greetings
+* 🤖 Answers AI-related questions
+* 🐍 Provides Python programming information
+* 📅 Displays current date
+* 🕒 Displays current time
+* ➕ Performs arithmetic calculations
+* 💡 Generates motivational quotes
+* 🎲 Shares random fun facts
+* ❓ Handles unknown inputs politely
+* 🔁 Continuous conversation using a while loop
+* 🚪 Graceful exit command
 
 | Technology | Purpose              |
 | ---------- | -------------------- |
@@ -38,48 +38,50 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 | random     | Quotes & Fun Facts   |
 | time       | Time Functions       |
 
-🧠 AI Concepts Used
-Rule-Based AI
-Knowledge Base
-Decision Making
-Conditional Statements
-Control Flow
-Loops
-User Interaction
-Function
+## 🧠 AI Concepts Used
+* Rule-Based AI
+* Knowledge Base
+* Decision Making
+* Conditional Statements
+* Control Flow
+* Loops
+* User Interaction
+* Function
 
- 📂 Project Structure
+ ## 📂 Project Structure
 
-```text
-Rule-Based-AI-Chatbot/
-│
-├── PROJECT-1 VAISHNAVI.py
-├── README.md
-├── LICENSE
-├── .gitignore
-└── screenshots/
-    ├── chatbot-home.png
-    ├── chatbot-chat.png
-    └── chatbot-exit.png
+| **Folder/File**             | **Description**                                                                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 `PROJECT-1 VAISHNAVI.py` | Main Python source code implementing the Rule-Based AI Chatbot.                                                                    |
+| 📄 `README.md`              | Project documentation containing the overview, features, installation guide, usage instructions, screenshots, and project details. |
+| 📄 `LICENSE`                | MIT License specifying the terms and conditions for using the project.                                                             |
+| 📄 `.gitignore`             | Specifies files and folders that Git should ignore when tracking the repository.                                                   |
+| 📁 `screenshots/`           | Contains screenshots demonstrating the chatbot's interface and functionality.                                                      |
+| ├── `chatbot-home.png`      | Screenshot of the chatbot home screen.                                                                                             |
+| ├── `chatbot-chat.png`      | Screenshot showing a sample conversation with the chatbot.                                                                         |
+| └── `chatbot-exit.png`      | Screenshot of the chatbot exit or goodbye message.                                                                                 |
 
- ▶️ How to Run
+## ▶️ How to Run
 
-### 1. Clone the repository
+# 🚀 How to Run
 
-```bash
-git clone https://github.com/vaishnavibansal222-ctrl/Rule-Based-AI-Chatbot.git
-```
-
-### 2. Open the project folder
+## 1️⃣ Clone the Repository
 
 ```bash
-cd Rule-Based-AI-Chatbot
+git clone https://github.com/vaishnavibansal222-ctrl/Decodelabs-Internship.git
 ```
 
-### 3. Run the chatbot
+## 2️⃣ Navigate to the Project Directory
+
+```bash
+cd Decodelabs-Internship
+```
+
+## 3️⃣ Run the Rule-Based AI Chatbot
 
 ```bash
 python "PROJECT-1 VAISHNAVI.py"
+```
 
 💬 Sample Conversation
 ==================================================
@@ -112,37 +114,37 @@ You : bye
 Bot : Thank you for using the chatbot.
 Have a wonderful day!
 
-📚 Learning Outcomes
-Python Programming
-Artificial Intelligence Basics
-Rule-Based Systems
-Decision Making
-Loops & Conditional Statements
-User Input Handling
-Problem Solving
+## 📚 Learning Outcomes
+* Python Programming
+* Artificial Intelligence Basics
+* Rule-Based Systems
+* Decision Making
+* Loops & Conditional Statements
+* User Input Handling
+* Problem Solving
 
-🚀 Future Enhancements
-NLP Integration
-Voice Assistant
-GUI using Tkinter
-Weather API
-Wikipedia Search
-Speech Recognition
-Text-to-Speech
-Chat History
-Database Integration
+## 🚀 Future Enhancements
+* NLP Integration
+* Voice Assistant
+* GUI using Tkinter
+* Weather API
+* Wikipedia Search
+* Speech Recognition
+* Text-to-Speech
+* Chat History
+* Database Integration
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Vaishnavi Bansal
 
 Artificial Intelligence Intern @ DecodeLabs
 
-⭐ Support
+## ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
