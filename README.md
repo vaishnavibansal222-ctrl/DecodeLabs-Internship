@@ -11,7 +11,6 @@ Developed as part of the DecodeLabs Artificial Intelligence Internship.
 * Sample Output
 * Learning Outcomes
 * Future Improvements
-* License
 * Author
 
 ## 🌟 Project Overview
@@ -54,7 +53,6 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 📄 `PROJECT-1 VAISHNAVI.py` | Main Python source code implementing the Rule-Based AI Chatbot.                                                                    |
 | 📄 `README.md`              | Project documentation containing the overview, features, installation guide, usage instructions, screenshots, and project details. |
-| 📄 `LICENSE`                | MIT License specifying the terms and conditions for using the project.                                                             |
 | 📄 `.gitignore`             | Specifies files and folders that Git should ignore when tracking the repository.                                                   |
 | 📁 `screenshots/`           | Contains screenshots demonstrating the chatbot's interface and functionality.                                                      |
 | ├── `chatbot-home.png`      | Screenshot of the chatbot home screen.                                                                                             |
@@ -62,8 +60,6 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 | └── `chatbot-exit.png`      | Screenshot of the chatbot exit or goodbye message.                                                                                 |
 
 ## ▶️ How to Run
-
-# 🚀 How to Run
 
 ## 1️⃣ Clone the Repository
 
@@ -133,10 +129,6 @@ Have a wonderful day!
 * Text-to-Speech
 * Chat History
 * Database Integration
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 
