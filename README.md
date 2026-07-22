@@ -56,9 +56,9 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 | 📄 `README.md`              | Project documentation containing the overview, features, installation guide, usage instructions, screenshots, and project details. |
 | 📄 `.gitignore`             | Specifies files and folders that Git should ignore when tracking the repository.                                                   |
 | 📁 `screenshots/`           | Contains screenshots demonstrating the chatbot's interface and functionality.                                                      |
-| ├── `chatbot-home.png`      | Screenshot of the chatbot home screen.                                                                                             |
-| ├── `chatbot-chat.png`      | Screenshot showing a sample conversation with the chatbot.                                                                         |
-| └── `chatbot-exit.png`      | Screenshot of the chatbot exit or goodbye message.                                                                                 |
+| 📝 `chatbot-home.png`      | Screenshot of the chatbot home screen.                                                                                             |
+| 📝`chatbot-chat.png`      | Screenshot showing a sample conversation with the chatbot.                                                                         |
+| 📝`chatbot-exit.png`      | Screenshot of the chatbot exit or goodbye message.                                                                                 |
 
 ## ▶️ How to Run
 
@@ -81,6 +81,7 @@ python "PROJECT-1 VAISHNAVI.py"
 ```
 
 ## 📚 Screenshot 
+
 # Functionality 
 <img width="371" height="277" alt="functionality" src="https://github.com/user-attachments/assets/5743073b-f4e4-4770-af86-14ff5e4ebc77" />
 
