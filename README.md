@@ -2,7 +2,7 @@
 A beginner-friendly Artificial Intelligence chatbot built with Python using rule-based logic and conditional statements.
 Developed as part of the DecodeLabs Artificial Intelligence Internship.
 
-📖 Table of Contents
+#📖 Table of Contents
 Project Overview
 Features
 Technologies Used
@@ -14,11 +14,11 @@ Future Improvements
 License
 Author
 
-🌟 Project Overview
+#🌟 Project Overview
 
 The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It responds to user inputs through predefined rules and conditional statements, demonstrating the core concepts of Rule-Based Artificial Intelligence without relying on Machine Learning or external AI libraries.
 
-✨ Key Features
+#✨ Key Features
 🤝 Interactive chatbot conversation
 👋 Personalized greetings
 🤖 Answers AI-related questions
@@ -39,7 +39,7 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 | random     | Quotes & Fun Facts   |
 | time       | Time Functions       |
 
-🧠 AI Concepts Used
+#🧠 AI Concepts Used
 Rule-Based AI
 Knowledge Base
 Decision Making
@@ -68,7 +68,7 @@ Rule-Based-AI-Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vaishnavibansal/Rule-Based-AI-Chatbot.git
+git clone https://github.com/vaishnavibansal222-ctrl/Rule-Based-AI-Chatbot.git
 ```
 
 ### 2. Open the project folder
@@ -82,7 +82,7 @@ cd Rule-Based-AI-Chatbot
 ```bash
 python "PROJECT-1 VAISHNAVI.py"
 
-💬 Sample Conversation
+#💬 Sample Conversation
 ==================================================
            RULE-BASED AI CHATBOT
            Developed By Vaishnavi Bansal
@@ -113,7 +113,7 @@ You : bye
 Bot : Thank you for using the chatbot.
 Have a wonderful day!
 
-📚 Learning Outcomes
+#📚 Learning Outcomes
 Python Programming
 Artificial Intelligence Basics
 Rule-Based Systems
@@ -122,7 +122,7 @@ Loops & Conditional Statements
 User Input Handling
 Problem Solving
 
-🚀 Future Enhancements
+#🚀 Future Enhancements
 NLP Integration
 Voice Assistant
 GUI using Tkinter
@@ -133,17 +133,17 @@ Text-to-Speech
 Chat History
 Database Integration
 
-📄 License
+#📄 License
 
 This project is licensed under the MIT License.
 
-👩‍💻 Author
+#👩‍💻 Author
 
 Vaishnavi Bansal
 
 Artificial Intelligence Intern @ DecodeLabs
 
-⭐ Support
+#⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
