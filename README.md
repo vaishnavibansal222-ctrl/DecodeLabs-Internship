@@ -1,14 +1,15 @@
-<p align="center">
-  <img width="1280" height="640" alt="🤖 SmartBot" src="https://github.com/user-attachments/assets/35266652-05dd-4266-8946-fe8cdb2861c1" />
+
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/6f1d3079-117d-466e-93fb-89fca5d96a3a" alt="SmartBot Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Rule--Based-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DecodeLabs-Internship-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-Rule--Based-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-1-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DecodeLabs-AI%20Internship-purple?style=for-the-badge"/>
 </p>
-
 
 # 🤖 Rule-Based AI Chatbot
 ⭐A beginner-friendly Artificial Intelligence chatbot built with Python using rule-based logic and conditional statements.
