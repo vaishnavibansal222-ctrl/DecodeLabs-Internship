@@ -63,15 +63,51 @@ The Rule-Based AI Chatbot is a console-based chatbot developed using Python. It 
 
  ## 📂 Project Structure
 
-| **Folder/File**             | **Description**                                                                                                                    |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 📄 `PROJECT-1 VAISHNAVI.py` | Main Python source code implementing the Rule-Based AI Chatbot.                                                                    |
-| 📄 `README.md`              | Project documentation containing the overview, features, installation guide, usage instructions, screenshots, and project details. |
-| 📄 `.gitignore`             | Specifies files and folders that Git should ignore when tracking the repository.                                                   |
-| 📁 `screenshots/`           | Contains screenshots demonstrating the chatbot's interface and functionality.                                                      |
-| 📝 `chatbot-home.png`      | Screenshot of the chatbot home screen.                                                                                             |
-| 📝`chatbot-chat.png`      | Screenshot showing a sample conversation with the chatbot.                                                                         |
-| 📝`chatbot-exit.png`      | Screenshot of the chatbot exit or goodbye message.                                                                                 |
+```mermaid
+flowchart TD
+
+    A([Start])
+
+    A --> B[Display Project Header]
+
+    B --> C[Load Knowledge Base]
+
+    C --> D[Initialize Chat History]
+
+    D --> E[Display Welcome Message]
+
+    E --> F[User Enters Message]
+
+    F --> G{Is Input Empty?}
+
+    G -- Yes --> H[Ask User to Enter a Valid Message]
+
+    H --> F
+
+    G -- No --> I{Is Exit Command?}
+
+    I -- Yes --> J[Display Goodbye Message]
+
+    J --> K[Show Chat Session Summary]
+
+    K --> L([Program Ends])
+
+    I -- No --> M{Command Found in Knowledge Base?}
+
+    M -- Yes --> N[Retrieve Response]
+
+    M -- No --> O[Display Unknown Command Message]
+
+    N --> P[Display Response]
+
+    O --> P
+
+    P --> Q[Save Conversation to Chat History]
+
+    Q --> F
+```
+                                                                     
+                                                                     |
 
 ## ▶️ How to Run
 
@@ -155,9 +191,12 @@ Have a wonderful day!
 
 ## 👩‍💻 Author
 
-Vaishnavi Bansal
+## Vaishnavi Bansal
 
 Artificial Intelligence Intern @ DecodeLabs
+
+🌐 MY Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaishnavi-bansal-95896b384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavibansal222@gmail.com) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 
 ## ⭐ Support
 
